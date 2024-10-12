@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDLSimple.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\aenug\source\repos\Pong\SDLSimple\main.cpp(38,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\aenug\source\repos\Pong\SDLSimple\main.cpp(39,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\aenug\source\repos\Pong\SDLSimple\main.cpp(136,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aenug\source\repos\Pong\SDLSimple\main.cpp(559,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDLSimple.vcxproj -> C:\Users\aenug\source\repos\Pong\Debug\Hw1.exe
