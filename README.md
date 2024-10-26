@@ -6,11 +6,13 @@ You probably won't be able to run the programs without doing a few weird things 
 
 2. Project 2 is a cool version of Pong that uses Captain Falcon and a Smash Ball by Nintendo
 - Press B to B-egin the game. Use WASD and the arrow keys to move up and down. Press T to turn one player into a computer "player." Note: the computer player logic isn't complete, the player just moves up and down.
-https://github.com/user-attachments/assets/a437efc9-e260-4935-9639-0979d3bbfc7c
+- Click below to see a video
+- https://github.com/user-attachments/assets/a437efc9-e260-4935-9639-0979d3bbfc7c
 
 3. Project 3 is an implementation of Lunar Lander using sprites from the Metroid game series by Nintendo.
 - Press spacebar to boost upwards. Press the left and right arrow keys to move left or right.
 - Your actions are limited by fuel.
 - You win when you land on the tower!!!
-https://github.com/user-attachments/assets/7b201e65-6089-4a2f-bdbe-ce682087e4fd
+- Click below to see a video
+- https://github.com/user-attachments/assets/7b201e65-6089-4a2f-bdbe-ce682087e4fd
 
