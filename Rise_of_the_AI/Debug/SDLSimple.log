@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDLSimple.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LevelA.cpp
+C:\Users\aenug\source\repos\Rise of the AI\SDLSimple\LevelA.cpp(136,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SDLSimple.vcxproj -> C:\Users\aenug\source\repos\Rise of the AI\Debug\Hw1.exe
