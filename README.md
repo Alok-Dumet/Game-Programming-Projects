@@ -18,4 +18,11 @@ You probably won't be able to run the programs without doing a few weird things 
 - Click below to see a video
 - https://github.com/user-attachments/assets/6a95f9b5-1ae3-4007-8f39-da6923d1408d
 
+4. Project 4 Rise of the AI is an test of seeing how different enemies in a platformer type of game can be implemented. It includes sprites taken from DeviantArt user LemonWithTopHat and Nintendo. Tile and enemy sprites used are from the Super Mario game series and the player character is Donkey Kong. The music used is from Donkey Kong Country and the jump sfx is from Super Mario as well.
+- You move using the arrow keys
+- If you jump on an enemy they are defeated
+- You lose if you touch an enemy anywhere except their heads
+- You win when you defeat every enemy!
+- Click below to see a video
+- https://github.com/user-attachments/assets/640cb0c0-eb48-4c8a-9605-aac9cc4d5b1b
 
