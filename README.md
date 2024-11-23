@@ -26,3 +26,9 @@ You probably won't be able to run the programs without doing a few weird things 
 - Click below to see a video
 - https://github.com/user-attachments/assets/640cb0c0-eb48-4c8a-9605-aac9cc4d5b1b
 
+5. Project 5 Platofrmer is a continuation of Project 4. There is now a Menu Screen, Win Screen, and Lose Screen. There are now 3 lives for the player, 3 levels, and different win/lose conditions. You win by reaching the end of the third level. You lose by dying 3 times.
+- Click below to see a video
+- https://github.com/user-attachments/assets/93bf3ee7-235c-4f69-a3c5-e06757fe48a9
+
+
+
